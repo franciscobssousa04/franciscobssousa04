@@ -8,7 +8,7 @@ Estudante de Engenharia Informática em Leiria, Portugal.
 
 **Tesp de Programação de Sistemas Informáticos** -  Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria *inacabado*
 
-**Técnico de Gestão e Programação de Sistemas Informáticos** — Escola Secundária Dona Inês de Castro de Alcobaça *(2019 – 2022, concluído, Nível 4 QEQ)*
+**Técnico de Gestão e Programação de Sistemas Informáticos** — Escola Secundária Dona Inês de Castro de Alcobaça *(2019 – 2022, concluído, )*
 Prova de Aptidão Profissional: desenvolvimento do site dinâmico **"MotoFelix"** (frontend e backend em HTML, CSS e PHP, com gestão de stock)
 
 ## 💻 Linguagens & Programação
