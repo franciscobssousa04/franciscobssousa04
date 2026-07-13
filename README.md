@@ -1,6 +1,6 @@
 # Olá, sou o Francisco Sousa 👋
 
-Estudante de Engenharia Informática em Leiria, Portugal, ainda sem experiência profissional em desenvolvimento de software. Estou a construir o meu portefólio para conseguir a minha primeira oportunidade na área.
+Estudante de Engenharia Informática em Leiria, Portugal.
 
 ## 🎓 Formação
 
@@ -20,14 +20,6 @@ Prova de Aptidão Profissional: desenvolvimento do site dinâmico **"MotoFelix"*
 ## 🧰 Ferramentas & Sistemas
 
 `Microsoft Office` · `Windows` · Conhecimentos informáticos na ótica do utilizador
-
-## 💼 Experiência
-
-**Estágio Profissional — Worten, Leiria Shopping** *(300 horas)*
-Atendimento ao público e aconselhamento de produtos tecnológicos, reparação e manutenção de equipamentos eletrónicos, gestão de stock e organização de armazém
-
-**Assistente de Vendas — Talho Ponte Jardim, Alcobaça**
-Atendimento ao cliente, apoio geral em loja e colaboração em equipa para um serviço rápido e eficiente
 
 ## 🗣️ Línguas
 
