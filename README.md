@@ -2,9 +2,14 @@
 
 Estudante de programação em Leiria, Portugal, com formação escolar na área e ainda sem experiência profissional. Estou a construir o meu portefólio para conseguir a minha primeira oportunidade em desenvolvimento de software.
 
+## 🎓 Formação
+
+**TeSP de Programação de Sistemas de Informação** — Instituto Politécnico de Leiria (ESTG) *(não concluído)*
+Fundamentos de Programação, Bases de Dados, Programação Web (Cliente/Servidor), Desenvolvimento de Aplicações, Redes e Sistemas Operativos, Metodologias de Desenvolvimento de Software, Tópicos de Segurança
+
 ## 💻 Linguagens & Programação
 
-`PHP` · `Java` · `JavaScript` · `HTML` · `CSS` · `C` (Programação Estruturada) · `C#` (Programação Orientada a Objetos)
+`PHP` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL` · `C` (Programação Estruturada) · `C#` (Programação Orientada a Objetos)
 
 ## 🛠️ Stack de Desenvolvimento Web
 
