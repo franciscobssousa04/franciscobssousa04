@@ -1,6 +1,6 @@
 # Olá, sou o Francisco Sousa 
 
-Full-stack developer em Leiria, Portugal, focado em construir produtos SaaS completos — do backend à experiência do utilizador.
+ developer em Leiria, Portugal, focado em construir produtos SaaS completos — do backend à experiência do utilizador.
 
 ## 💻 Linguagens & Programação
 
