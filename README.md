@@ -1,6 +1,6 @@
-# Olá, sou o Francisco Sousa 
+# Olá, sou o Francisco Sousa 👋
 
- developer em Leiria, Portugal, focado em construir produtos SaaS completos — do backend à experiência do utilizador.
+Estudante de programação em Leiria, Portugal, com formação escolar na área e ainda sem experiência profissional. Estou a construir o meu portefólio para conseguir a minha primeira oportunidade em desenvolvimento de software.
 
 ## 💻 Linguagens & Programação
 
@@ -23,7 +23,7 @@
 
 ## 🚀 O que faço
 
-Desenho e desenvolvo micro-SaaS e dashboards de gestão empresarial, com foco em autenticação segura, pagamentos e experiências white-label prontas para clientes.
+Desenvolvo projetos práticos (dashboards de gestão empresarial, encurtadores de links com autenticação e pagamentos) para consolidar o que aprendi na escola e construir um portefólio sólido enquanto procuro entrar na área.
 
 ## 📫 Contacto
 
