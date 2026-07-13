@@ -1,11 +1,13 @@
 # Olá, sou o Francisco Sousa 👋
 
-Estudante de programação em Leiria, Portugal, com formação escolar na área e ainda sem experiência profissional. Estou a construir o meu portefólio para conseguir a minha primeira oportunidade em desenvolvimento de software.
+Estudante de Engenharia Informática em Leiria, Portugal, ainda sem experiência profissional em desenvolvimento de software. Estou a construir o meu portefólio para conseguir a minha primeira oportunidade na área.
 
 ## 🎓 Formação
 
-**TeSP de Programação de Sistemas de Informação** — Instituto Politécnico de Leiria (ESTG) *(não concluído)*
-Fundamentos de Programação, Bases de Dados, Programação Web (Cliente/Servidor), Desenvolvimento de Aplicações, Redes e Sistemas Operativos, Metodologias de Desenvolvimento de Software, Tópicos de Segurança
+**Licenciatura em Engenharia Informática** — Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria *(09/2025 – atual)*
+
+**Técnico de Gestão e Programação de Sistemas Informáticos** — Escola Secundária Dona Inês de Castro de Alcobaça *(2019 – 2022, concluído, Nível 4 QEQ)*
+Prova de Aptidão Profissional: desenvolvimento do site dinâmico **"MotoFelix"** (frontend e backend em HTML, CSS e PHP, com gestão de stock)
 
 ## 💻 Linguagens & Programação
 
@@ -19,6 +21,18 @@ Fundamentos de Programação, Bases de Dados, Programação Web (Cliente/Servido
 
 `Microsoft Office` · `Windows` · Conhecimentos informáticos na ótica do utilizador
 
+## 💼 Experiência
+
+**Estágio Profissional — Worten, Leiria Shopping** *(300 horas)*
+Atendimento ao público e aconselhamento de produtos tecnológicos, reparação e manutenção de equipamentos eletrónicos, gestão de stock e organização de armazém
+
+**Assistente de Vendas — Talho Ponte Jardim, Alcobaça**
+Atendimento ao cliente, apoio geral em loja e colaboração em equipa para um serviço rápido e eficiente
+
+## 🗣️ Línguas
+
+Português (nativo) · Inglês (B2)
+
 ## 🌟 Perfil
 
 - Sentido e capacidade de organização
@@ -28,8 +42,8 @@ Fundamentos de Programação, Bases de Dados, Programação Web (Cliente/Servido
 
 ## 🚀 O que faço
 
-Desenvolvo projetos práticos (dashboards de gestão empresarial, encurtadores de links com autenticação e pagamentos) para consolidar o que aprendi na escola e construir um portefólio sólido enquanto procuro entrar na área.
+Desenvolvo projetos práticos (dashboards de gestão empresarial, encurtadores de links com autenticação e pagamentos) para consolidar o que aprendo no curso e construir um portefólio sólido enquanto procuro entrar na área.
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/francisco-sousa-6a380b355/)
+[LinkedIn](https://www.linkedin.com/in/francisco-sousa-6a380b355/) · francisco.bs.sousa.04@gmail.com
