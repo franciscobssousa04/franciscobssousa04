@@ -4,9 +4,9 @@ Estudante de Engenharia Informática em Leiria, Portugal.
 
 ## 🎓 Formação
 
-**Licenciatura em Engenharia Informática** — Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria *(09/2025 – atual)*
+**Licenciatura em Engenharia Informática** — Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria 
 
-**Tesp de Programação de Sistemas Informáticos** -  Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria *(inacabado)*
+**Tesp de Programação de Sistemas Informáticos** -  Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Leiria 
 
 **Técnico de Gestão e Programação de Sistemas Informáticos** — Escola Secundária Dona Inês de Castro de Alcobaça *(2019 – 2022, concluído, )*
 Prova de Aptidão Profissional: desenvolvimento do site dinâmico **"MotoFelix"** (frontend e backend em HTML, CSS e PHP, com gestão de stock)
